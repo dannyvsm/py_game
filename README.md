@@ -73,4 +73,7 @@ Contributions are what make the open source community such an amazing place to l
 
 ## Authors
 
-* **Danny Smith** - *Junior Software Developer* 
+* **Cameron Long** -  Narrative Lead - fleshed out the narrative, interlinking storylines and adding bonus content
+* **Danny Smith** - Creativity Lead - focused on storyline and game structure 
+* **Lavina Serban** - Project Manager - responsible for delegation of tasks, 
+* **Oliver Salt** - Lead Developer - took lead in code structuring, testing & debugging
